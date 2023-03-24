@@ -1,4 +1,4 @@
-package com.tnsif.anonymous;
+package com.anonymous;
 
 public interface Age {
 	int x = 21;
