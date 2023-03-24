@@ -1,4 +1,4 @@
-package com.tnsif.anonymous;
+package com.anonymous;
 
 public class MyClass {
 	public void createClass() {
