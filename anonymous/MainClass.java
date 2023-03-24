@@ -1,4 +1,4 @@
-package com.if.anonymous;
+package com.anonymous;
 
 public class MainClass {
 
