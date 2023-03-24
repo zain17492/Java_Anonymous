@@ -1,4 +1,4 @@
-package com.tnsif.anonymous;
+package com.if.anonymous;
 
 public class MainClass {
 
